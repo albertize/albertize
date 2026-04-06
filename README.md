@@ -9,7 +9,7 @@
 <h3 align="center" style="color: #2ea44f;">Connect with Me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/alberto-vito/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<a href="https://www.reddit.com/user/Alternative_Long6723/" target="blank"><img src="https://img.shields.io/badge/-Reddit-ff4300?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/albertize/" target="blank"><img src="https://img.shields.io/badge/-Reddit-ff4300?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; color: #8b949e;">
