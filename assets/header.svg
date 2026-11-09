@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+<title id="title">albertize — Systems and Backend Engineering</title><desc id="desc">Terminal inspired banner with a dark background, copper and cyan accents, and a diagram of connected services.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#243247" stroke-width=".6"/></pattern><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111c2c"/><stop offset="1" stop-color="#090e17"/></linearGradient></defs>
+<rect width="960" height="300" rx="18" fill="url(#bg)"/><rect width="960" height="300" rx="18" fill="url(#grid)"/>
+<path d="M24 0H936" stroke="#65d6ce" stroke-width="3"/>
+<circle cx="30" cy="27" r="5" fill="#ed8b74"/><circle cx="49" cy="27" r="5" fill="#e8bb73"/><circle cx="68" cy="27" r="5" fill="#92c9a3"/>
+<text x="91" y="32" fill="#91a1b7" font-family="monospace" font-size="12">albertize / profile</text><path d="M24 48H936" stroke="#29364a"/>
+<text x="44" y="93" fill="#65d6ce" font-family="monospace" font-size="13" letter-spacing="3">SYSTEMS / SERVICES / LINUX</text>
+<text x="40" y="165" fill="#edf3fa" font-family="sans-serif" font-weight="700" font-size="64" letter-spacing="-3">albertize<tspan fill="#edaa82">_</tspan></text>
+<text x="44" y="204" fill="#b5c2d3" font-family="sans-serif" font-size="19">Building services. Exploring what runs beneath.</text>
+<text x="44" y="260" fill="#91a1b7" font-family="monospace" font-size="13">RUST + GO + C + JAVA</text>
+<g stroke="#486078" stroke-width="2" fill="none"><path d="M730 118V86H850V118M730 162V202H850V162M730 140H850"/><path d="M790 86V65M790 202V226"/></g>
+<g fill="#142334" stroke="#65d6ce"><rect x="697" y="118" width="66" height="44" rx="10"/><rect x="817" y="118" width="66" height="44" rx="10"/></g>
+<g font-family="monospace" font-size="17" text-anchor="middle"><text x="730" y="146" fill="#65d6ce">{ }</text><text x="850" y="146" fill="#edaa82">&gt;_</text><text x="790" y="251" fill="#91a1b7" font-size="11">CONNECTED BY DESIGN</text></g></svg>
